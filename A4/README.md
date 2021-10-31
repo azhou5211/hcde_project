@@ -20,7 +20,7 @@ This plot displays the new confirmed cases per day in Dallas county of Texas. Th
 The "No Mask Mandate in the past 7 days" means there was no mask mandate laws in the past 7 days. The "Yes Mask Mandate" means there was a mask mandate law during the past 7 days. The "No Data on Mask Mandate" means there was no data during that time period, and I am unsure if there is a mask mandate or not.
 
 After plotting this plot, I noticed there were a lot of 0 new cases and I decided to investigate further. After inspection, I noticed that the new case count is recorded after 2 day break, which is typically Saturday and Sunday. This also results in a huge number spike on Monday to make up for the 0 counts of the previous two days.
-Therefore, be aware the very high spikes and low spikes are due to 2 day breaks every week.
+Therefore, to counter the very spikey graph, the plot is computed on a 7 day moving average to smoothen out the dips and spikes.
 
 With the 1 week delay on the plot, the plot looks very similar to as the previous plot. It's a very small shift of 7 days.
 It looks like the mask mandate laws were put in palce during the worst parts of Covid (high number of daily new cases).
