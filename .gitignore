@@ -89,3 +89,4 @@ target/
 .mypy_cache/
 
 .DS_Store
+ideas.txt
