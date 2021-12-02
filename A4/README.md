@@ -43,5 +43,6 @@ There seems to be a lot of jumping around near the end of July. That seems to be
 Considering that 89% wore masks around the July time period, the covid cases were around 1000 a day. It seems to be less before a huge spike coming August and September of 2020. Looking at this plot, it's very hard to say if there was any impact of masks and new covid cases.
 However, looking at this plot, it's very difficult to say the impacts of people wearing masks and new Covid cases.
 
-# Reflection
+# Collaboration Reflection
 
+From the collaboration on slack, I got the idea to use a 7-day moving average from Grant Savage. Originally my plot was very volatile due to some days not having any reportings, and then there would be make up days after with significantly higher values. From the collaboration, I also saw some people calculating # of infected / population as rate, but I decided to not pursue this graph. In my thoughts, the cumulative cases were a point, the derivate of that is case per day is a rate. Instead, I used cases per day as my rate for analysis. I also didn't think cases per day / population would giev any new insights, the data is still the same but just with a lower value.
