@@ -35,7 +35,7 @@ https://data.bls.gov/timeseries/LAUMT481910000000003?amp%253bdata_tool=XGtable&o
 Uninsured Health Insurnace Rate - US Census  
 https://www.census.gov/
 
-# Notes:
+### Notes:
 - Dallas, Texas's FIPS code is 48113.
 - US confirmed cases and death COVID-19 data has date as their own individual columns. I melted the dates into two columns: date and value, where value is either confirmed cases or death depending on file. Filter the county and state to Dallas, Texas.
 - Mask mandates needs to be filtered to Dallas, Texas by state and county.
