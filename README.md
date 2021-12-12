@@ -17,10 +17,10 @@ https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-M
 Mask-Wearing Survey Data - The New York Times (July 2 and July 14)  
 https://github.com/nytimes/covid-19-data/tree/master/mask-use
 
-Unemployment Rate - Bureau of Labor Statistics
+Unemployment Rate - Bureau of Labor Statistics  
 https://data.bls.gov/timeseries/LAUMT481910000000003?amp%253bdata_tool=XGtable&output_view=data&include_graphs=true
 
-Uninsured Health Insurnace Rate - US Census
+Uninsured Health Insurnace Rate - US Census  
 https://www.census.gov/
 
 Notes:
