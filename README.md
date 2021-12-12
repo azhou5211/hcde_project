@@ -1,5 +1,5 @@
 # HCDE Project
-This is the repository for HCDE project. It contains my source code for my analysis. The source code can be found [here](https://github.com/azhou5211/hcde_project/blob/main/A6/notebooks/A6.ipynb).
+This is the repository for HCDE project. It contains my source code for my analysis. The analytical methods and source code can be found [here](https://github.com/azhou5211/hcde_project/blob/main/A6/notebooks/A6.ipynb).
 
 
 # Data Sources
