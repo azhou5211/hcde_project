@@ -35,6 +35,22 @@ https://data.bls.gov/timeseries/LAUMT481910000000003?amp%253bdata_tool=XGtable&o
 Uninsured Health Insurnace Rate - US Census  
 https://www.census.gov/
 
+### Licenses and Terms of Use:
+John Hopkins University Covid Data:  
+Found at the bottom of this [repository](https://github.com/CSSEGISandData/COVID-19).
+
+CDC:  
+https://www.cdc.gov/other/agencymaterials.html
+
+The New York Times:  
+[License](https://github.com/nytimes/covid-19-data/blob/master/LICENSE)
+
+Bureau of Labor Statistics:  
+https://www.bls.gov/cps/certifications-and-licenses.htm
+
+US Census:  
+https://www.census.gov/data/software/x13as/disclaimer.html
+
 ### Notes:
 - Dallas, Texas's FIPS code is 48113.
 - US confirmed cases and death COVID-19 data has date as their own individual columns. I melted the dates into two columns: date and value, where value is either confirmed cases or death depending on file. Filter the county and state to Dallas, Texas.
